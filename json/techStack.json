@@ -1,0 +1,27 @@
+[
+    {
+      "name": "JavaScript",
+      "icon": "https://yourcdn.com/images/techstack/javascript.png"
+    },
+    {
+      "name": "React",
+      "icon": "https://yourcdn.com/images/techstack/react.png"
+    },
+    {
+      "name": "Node.js",
+      "icon": "https://yourcdn.com/images/techstack/nodejs.png"
+    },
+    {
+      "name": "Python",
+      "icon": "https://yourcdn.com/images/techstack/python.png"
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "https://yourcdn.com/images/techstack/ml.png"
+    },
+    {
+      "name": "Next.js",
+      "icon": "https://yourcdn.com/images/techstack/nextjs.png"
+    }
+  ]
+  

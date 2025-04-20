@@ -1,0 +1,23 @@
+[
+    {
+      "title": "AI Disease Predictor",
+      "desc": "ML model that predicts diseases from symptoms using FastAPI and Python.",
+      "tags": ["Python", "ML"],
+      "github": "https://github.com/you/ai-disease",
+      "deployed": "https://ai-predictor.vercel.app",
+      "image": "https://yourcdn.com/images/projects/ai-disease/img1.png",
+      "videos": [],
+      "completionDate": "2024-04-15"
+    },
+    {
+      "title": "E-commerce App",
+      "desc": "React + Node.js powered full-stack e-commerce store with Stripe payments.",
+      "tags": ["React", "Node.js"],
+      "github": "https://github.com/you/ecommerce",
+      "deployed": "https://shop.vercel.app",
+      "image": "https://yourcdn.com/images/projects/ecommerce/img1.png",
+      "videos": [],
+      "completionDate": "2024-01-10"
+    }
+  ]
+  

@@ -1,0 +1,32 @@
+[
+    {
+      "title": "AI Disease Predictor",
+      "desc": "Machine Learning model that predicts possible diseases based on symptoms.",
+      "tags": ["Python", "ML", "FastAPI"],
+      "github": "https://github.com/johndoe/ai-disease-predictor",
+      "deployed": "https://ai-predictor.vercel.app",
+      "images": [
+        "https://yourcdn.com/images/projects/ai-disease/img1.png",
+        "https://yourcdn.com/images/projects/ai-disease/img2.png"
+      ],
+      "videos": [
+        "https://yourcdn.com/images/projects/ai-disease/demo.mp4"
+      ],
+      "type": ["ML", "python"],
+      "completionDate": "2024-04-15"
+    },
+    {
+      "title": "E-commerce Website",
+      "desc": "Full-featured e-commerce site with React, Node.js, MongoDB, and Stripe.",
+      "tags": ["Full Stack", "E-commerce"],
+      "github": "https://github.com/johndoe/ecommerce-app",
+      "deployed": "https://shopwithjohn.vercel.app",
+      "images": [
+        "https://yourcdn.com/images/projects/ecommerce/img1.png"
+      ],
+      "videos": [],
+      "type": ["full stack", "frontend", "backend"],
+      "completionDate": "2024-01-10"
+    }
+  ]
+  

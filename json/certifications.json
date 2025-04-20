@@ -1,0 +1,17 @@
+[
+    {
+      "title": "AWS Certified Developer",
+      "tags": ["AWS", "Cloud"],
+      "desc": "Completed AWS Developer Associate Certification covering EC2, Lambda, S3, and more.",
+      "image": "https://yourcdn.com/images/certifications/aws_cert.png",
+      "date": "2024-08-15"
+    },
+    {
+      "title": "Google Data Analytics",
+      "tags": ["Data Science", "Google"],
+      "desc": "Learned data visualization, SQL, and Python for data analysis.",
+      "image": "https://yourcdn.com/images/certifications/google_data.png",
+      "date": "2023-12-10"
+    }
+  ]
+  

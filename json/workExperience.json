@@ -1,0 +1,25 @@
+[
+    {
+      "company": "TechVerse Solutions",
+      "position": "Full Stack Developer Intern",
+      "tags": ["fulltime", "internship", "opensource", "fulltime"],
+      "location": "Remote",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "description": "Worked on a SaaS dashboard product where I contributed to UI design, REST API integration, and user authentication.",
+      "logo": "https://yourcdn.com/images/work/techverse-logo.png"
+    },
+    {
+      "company": "AI Labs India",
+      "position": "Machine Learning Research Intern",
+      "tags": ["fulltime", "internship", "opensource", "fulltime"],
+      "location": "Bangalore, India",
+      "startDate": "2024-01-15",
+      "endDate": "2024-04-15",
+      "techStack": ["Python", "Scikit-learn", "Pandas", "FastAPI"],
+      "description": "Developed ML models for real-time classification tasks and integrated them into FastAPI-based microservices.",
+      "logo": "https://yourcdn.com/images/work/ailabs-logo.png"
+    }
+  ]
+  
