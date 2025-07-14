@@ -1,23 +1,42 @@
 [
-    {
-      "title": "AI Disease Predictor",
-      "desc": "ML model that predicts diseases from symptoms using FastAPI and Python.",
-      "tags": ["Python", "ML"],
-      "github": "https://github.com/you/ai-disease",
-      "deployed": "https://ai-predictor.vercel.app",
-      "image": "https://yourcdn.com/images/projects/ai-disease/img1.png",
-      "videos": [],
-      "completionDate": "2024-04-15"
-    },
-    {
-      "title": "E-commerce App",
-      "desc": "React + Node.js powered full-stack e-commerce store with Stripe payments.",
-      "tags": ["React", "Node.js"],
-      "github": "https://github.com/you/ecommerce",
-      "deployed": "https://shop.vercel.app",
-      "image": "https://yourcdn.com/images/projects/ecommerce/img1.png",
-      "videos": [],
-      "completionDate": "2024-01-10"
-    }
-  ]
-  
+  {
+    "title": "Anuvaad Client SDK",
+    "desc": "Developed a TypeScript-based client SDK for Anuvaad — an open-source AI-based translation platform. The SDK provides seamless integration with translation APIs, handling auth, retries, and error management for multi-language NLP workflows.",
+    "tags": ["TypeScript", "SDK", "NLP", "API", "Open Source"],
+    "github": "https://github.com/yourusername/anuvaad-client-sdk", 
+    "deployed": null,
+    "image": "https://yourcdn.com/images/projects/anuvaad-sdk/img1.png",
+    "videos": [],
+    "completionDate": "2024-04-15"
+  },
+  {
+    "title": "ANPR under Occlusion & Poor-Visibility",
+    "desc": "Built an AI-powered license plate recognition system capable of detecting and recognizing number plates under occlusion, blur, and poor lighting. Utilized YOLOv5 and image preprocessing techniques, deployed via FastAPI for real-time inference.",
+    "tags": ["Computer Vision", "YOLOv5", "Python", "FastAPI", "OpenCV", "AI"],
+    "github": "https://github.com/yourusername/anpr-occlusion",
+    "deployed": null,
+    "image": "https://yourcdn.com/images/projects/anpr/img1.png",
+    "videos": ["https://youtube.com/demo-anpr-occlusion"], 
+    "completionDate": "2024-01-10"
+  },
+  {
+    "title": "Women Safety SOS",
+    "desc": "Designed and developed a cross-platform mobile app using React Native to provide quick emergency assistance for women. Features include live location tracking, one-tap SOS alerts, and emergency contact notifications via SMS and WhatsApp.",
+    "tags": ["React Native", "Mobile App", "Firebase", "Geolocation", "Android"],
+    "github": "https://github.com/yourusername/women-safety-sos",
+    "deployed": "https://expo.dev/@yourusername/women-safety",
+    "image": "https://yourcdn.com/images/projects/women-safety/img1.png",
+    "videos": [],
+    "completionDate": "2024-03-12"
+  },
+  {
+    "title": "Hospital Acquired Infections - ML Research",
+    "desc": "Conducted research and built an ML pipeline to predict risk of Hospital Acquired Infections (HAIs) using patient vitals and hospital stay data. Published a paper discussing findings, performance metrics, and future applications in clinical settings.",
+    "tags": ["ML", "Research", "Healthcare", "Data Science", "Python", "Scikit-Learn"],
+    "github": "https://github.com/yourusername/hai-research",
+    "deployed": null,
+    "image": "https://yourcdn.com/images/projects/hai-research/img1.png",
+    "videos": [],
+    "completionDate": "2024-04-25"
+  }
+]
