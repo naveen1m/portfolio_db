@@ -1,0 +1,17 @@
+FOR PROJECTS:
+{
+  "title": "",                 // Project title (e.g., "AI Disease Predictor")
+  "desc": "",                  // Brief project description
+  "technologyUsed": [],        // Technologies used (e.g., ["Python", "React"])
+  "github": "https://github.com/naveen1m/repo-name", // only write repo name there Link to source code repository
+  "deployed": "",              // Link to live deployed app/site
+  "images": [],                // Screenshot/image URLs
+  "videos": [],                // Demo video URLs
+  "type": [],                  // Project type: ["ML", "Web App", "API", "CLI"] etc.
+  "category": [],              // Max 4 values: "website", "mobile", "ai/ml", "other"
+  "status": "",                // Project status: "Completed", "In Progress", etc.
+  "teamSize": 0,               // Number of team members (1 if solo)
+  "topics": [],                // Concepts involved (e.g., ["Deep Learning", "React Hooks"])
+  "completionDate": ""         // Date finished (e.g., "2024-05-01")
+}
+
