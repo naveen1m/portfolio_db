@@ -41,7 +41,7 @@
   },
   {
     "title": "Hospital Acquired Infections - ML Research",
-    "desc": "Applied machine learning algorithms such as Support Vector Machine (SVM), Random Forest, and Gaussian Naive Bayes (NB) to evaluate model performance and accuracy. Implemented advanced optimization techniques like GridSearchCV, achieving a notable cross-validation accuracy of 96.44%. Contributed to training and deployment of ML models using FastAPI for API integration. Collaborated with a team to co-author a research paper, which was published in the book Prospects of Science, Technology and Applications.",
+    "desc": "Hospital-acquired infections (HAIs) impact millions globally, with common types including bloodstream infections, pneumonia, urinary tract infections, and surgical site infections. This research focused on developing a machine learning model to accurately predict HAI risk using patient and hospital data. Leveraging algorithms such as Random Forest, Support Vector Machine (SVM), and Gaussian Naive Bayes (NB), the model identifies key risk factors and generates personalized risk scores to support early intervention and targeted prevention strategies. Advanced optimization techniques like GridSearchCV were employed, achieving a cross-validation accuracy of 96.44%. The system was deployed using FastAPI for seamless API integration. Contributed to both the model development and deployment, and co-authored a research paper published in the book Prospects of Science, Technology and Applications..",
     "technologyUsed": [],
     "topics": ["ML", "Research", "Healthcare", "Data Science", "Python", "Scikit-Learn"],
     "github": "Symposium-source-code",
