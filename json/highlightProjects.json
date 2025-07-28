@@ -9,7 +9,7 @@
     "access":"granted",
     "deployed": null,
     "image": ["https://ik.imagekit.io/playitnav/highlights/anpr.png?updatedAt=1753538478172"],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/xJZ6As4f5_M?rel=0&modestbranding=1"],
     "category":["other"],
     "completionDate": "2023-09"
   },
@@ -22,7 +22,7 @@
     "access":"granted",
     "deployed": null,
     "image": ["https://ik.imagekit.io/playitnav/highlights/anpr.png?updatedAt=1753538478172"],
-    "videos": ["https://www.youtube.com/embed/xJZ6As4f5_M"], 
+    "videos": ["https://www.youtube.com/embed/xJZ6As4f5_M?rel=0&modestbranding=1"], 
     "category":["websites","AI/ML"],
     "completionDate": "2025-06"
   },
@@ -35,7 +35,7 @@
     "access":"denied",
     "deployed": "https://expo.dev/@yourusername/women-safety",
     "image": ["https://ik.imagekit.io/playitnav/highlights/anpr.png?updatedAt=1753538478172"],
-    "videos": [],
+    "videos": ["https://www.youtube.com/embed/xJZ6As4f5_M?rel=0&modestbranding=1"],
     "category":["mobile"],
     "completionDate": "2024-03-12"
   },
@@ -48,7 +48,7 @@
     "access":"granted",
     "deployed": null,
     "image": "https://ik.imagekit.io/playitnav/highlights/hai.png?updatedAt=1753538926851",
-    "videos": ["https://youtu.be/xJZ6As4f5_M"],
+    "videos": ["https://www.youtube.com/embed/xJZ6As4f5_M?rel=0&modestbranding=1"],
     "category":["websites","AI/ML"],
     "completionDate": "2024-06"
   }
